@@ -16,24 +16,24 @@ The following sections will guide you through the pre-installation preparation a
 
 Before you begin the installation process, make sure to meet the following requirements:
 
-1.Ensure your computer meets the minimum system requirements to run the software, such as the necessary hardware specifications, operating system, and available disk space.
+1. Ensure your computer meets the minimum system requirements to run the software, such as the necessary hardware specifications, operating system, and available disk space.
 
-2.Check if you have the required software dependencies installed on your computer, such as Python, required Python libraries and any other relevant software.
+2. Check if you have the required software dependencies installed on your computer, such as Python, required Python libraries and any other relevant software.
 
-3.Download the latest version of SciKiTools from the official GitHub repository website.
+3. Download the latest version of SciKiTools from the official GitHub repository website.
 
-4.Unzip the downloaded file to a suitable location on your computer. 
+4. Unzip the downloaded file to a suitable location on your computer. 
 
 ## Install steps
 Follow these steps to install SciKiTools
 
-1.Open the official GitHub repository website: [https://github.com/NomotoK/COMP208](https://github.com/COMP208TEAM40/SciKiTool_v0.1.6)
+1. Open the official GitHub repository website: [https://github.com/NomotoK/COMP208](https://github.com/COMP208TEAM40/SciKiTool_v0.1.6)
 
-2.Download the latest application version
+2. Download the latest application version
 
-3.Open the file and run main.py
+3. Open the file and run main.py
 
-4.Congratulations! You have successfully installed SciKiTools!
+4. Congratulations! You have successfully installed SciKiTools!
 
 By following these pre-installation preparation steps and installation instructions, you can easily set up SciKiTools on your computer and start taking advantage of its powerful data processing and analysis capabilities.
 
