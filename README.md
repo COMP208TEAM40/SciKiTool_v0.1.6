@@ -2,7 +2,7 @@
 COMP208 project developer version0.1.6 source code
 
  
-### System requirements
+## System requirements
 To have better experiences, before installing the software, please ensure your computer meets the following minimum system requirements:
 
 - Operating System: Windows 10, macOS X+
@@ -11,7 +11,7 @@ To have better experiences, before installing the software, please ensure your c
 - Display: 1280*720 resolution or higher
 - Internet connection for installation and updates(optional) 
 
-### Installation Process
+## Installation Process
 The following sections will guide you through the pre-installation preparation and the installation steps required to set up SciKiTools on your computer. Pre-installation preparation.
 
 Before you begin the installation process, make sure to meet the following requirements:
@@ -24,10 +24,10 @@ Before you begin the installation process, make sure to meet the following requi
 
 4.Unzip the downloaded file to a suitable location on your computer. 
 
-### Install steps
+## Install steps
 Follow these steps to install SciKiTools
 
-1.Open the official GitHub repository website: https://github.com/NomotoK/COMP208
+1.Open the official GitHub repository website: [https://github.com/NomotoK/COMP208](https://github.com/COMP208TEAM40/SciKiTool_v0.1.6)
 
 2.Download the latest application version
 
@@ -37,5 +37,5 @@ Follow these steps to install SciKiTools
 
 By following these pre-installation preparation steps and installation instructions, you can easily set up SciKiTools on your computer and start taking advantage of its powerful data processing and analysis capabilities.
 
-### Precautions
+## Precautions
 Please check that the system version meets the minimum requirements for the software to run. When downloading software, please take care to select the appropriate version. Usually, the latest stable version is the first choice, but in some cases you may need to use an older version. You can find different versions on the "Releases" page in GitHub (this only applies after the second iteration has been released).
