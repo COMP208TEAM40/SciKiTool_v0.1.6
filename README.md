@@ -16,6 +16,8 @@ The following sections will guide you through the pre-installation preparation a
 
 Before you begin the installation process, make sure to meet the following requirements:
 
+0.	**Check if you have the required software dependencies installed on your computer, such as Python, required Python libraries: `sklearn`, `pyqt`, `numpy`, `pandas`, `matplotlib`, under `python 3.9.16` environment.**
+
 1. Ensure your computer meets the minimum system requirements to run the software, such as the necessary hardware specifications, operating system, and available disk space.
 
 2. Check if you have the required software dependencies installed on your computer, such as Python, required Python libraries and any other relevant software.
